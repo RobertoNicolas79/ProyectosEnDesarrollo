@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family:"Perpetua";
+	font-size: 18px;
+	background: #1F1F1F;
+	width: 90%;
+	margin:0 auto;
+	letter-spacing: 1px;
+
+}
+
+.main, .dato, .secondary{
+	float: left;
+	color: #CBCBCB;
+
+}
+h1{
+	padding: 20px;
+	margin top: 20px;
+	text-align: center;
+	color:#D54A4A;
+	text-shadow: 2px 2px 2px #B02121;
+}
+h2,h3,h4{
+	color:#FF3030;
+
+
+}
+
+.caja li{
+	list-style-type: none;
+	position: relative;
+	background: red;
+	float: left;
+	width: 20%;
+	text-align: center;
+
+}
+.caja li a{
+	text-decoration: none;
+	display: inline-block;
+	background: #700000;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #C6C3C3;
+}
+.caja li a:hover{
+	color:#000;
+	background: #E77272;
+
+}
+
+
+.dato{
+	background: rgba(255,255,255,10%);
+	width: 15%;
+	padding: 2%;
+	margin-top: 2%;
+	margin-right: 1%;
+
+}
+.dato h3{
+	padding-bottom: 5%;
+}
+
+.main{
+	width: 46%;
+	padding: 2%;
+	margin-top: 2%;
+
+}
+
+.secondary{
+	width: 25%;
+	padding: 2%;
+	margin-top: 2%;
+	margin-left: 1%;
+
+}
+
+
+
+
+
+
+
+
+
+

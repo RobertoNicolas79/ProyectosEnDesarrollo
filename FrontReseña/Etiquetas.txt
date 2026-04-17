@@ -1,0 +1,8 @@
+###Bordes#### bordes de cajas
+border:none, hidden, dotted, dashed, solid, double, groove, ridge, inset y outset;
+###Dysplay#### convertir cajas o lineas
+Dysplay:inline,block,inline-block
+###Fuentes####
+font-family:"Candara", "Courier New", "Optima", "Garamond", "Cambria", "Perpetua", "Copperplate"
+###CajaPadre###
+position:relative(padre)
